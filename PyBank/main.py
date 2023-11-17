@@ -5,7 +5,7 @@ import csv
 budget_data_csv_path = os.path.join("Resources", "budget_data.csv")
 
 # Specify the output file path
-output_file_path = os.path.join("Analysis""PyBank_Results.txt")
+output_file_path = os.path.join("Analysis","PyBank_Results.txt")
 
 
 # Open and read csv
