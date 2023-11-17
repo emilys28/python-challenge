@@ -28,5 +28,6 @@ In addition, your final script should both print the analysis to the terminal an
 
 ## Citation
 OpenAI. (2022). ChatGPT. https://www.openai.com (Used ChatGPT solely when stuck on specific lines)
+
 Sims, E. (2023, November 16). Study group review with classmates A. Banda and D. Kenet.
 
