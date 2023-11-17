@@ -5,7 +5,7 @@ import csv
 election_data_csv_path = os.path.join("Resources", "election_data.csv")
 
 # Output file path
-output_file_path = os.path.join("PyPoll_results.txt")
+output_file_path = os.path.join("Analysis","PyPoll_results.txt")
 
 # Open and read csv
 with open(election_data_csv_path, newline="") as csvfile:
